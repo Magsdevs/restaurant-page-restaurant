@@ -10,7 +10,7 @@ const html = `<div id="header">
         <h2>Location</h2>
         <div class="location">
           <div>
-            <img src="/dist/imgs/snapshot.png" alt="location" />
+            <img src="./imgs/snapshot.png" alt="location" />
           </div>
           <div class="para">
           <p>Calle de los Puertecitos 23, 28003 Madrid</p>
